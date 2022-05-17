@@ -86,3 +86,4 @@ We gaan er ook voor zorgen dat de navigatiebalk zich aanpast wanneer een gebruik
   dan een `users.json` bestand maken met gebruikers erin, zodat je iemand daadwerkelijk kunt laten "inloggen" met een
   bestaand account.
 - Make it look nice!
+# huiswerk-react-private-blog
