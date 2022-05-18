@@ -2,7 +2,7 @@
 import React from 'react';
 
 
-export function Home() {
+ function Home() {
     return (
         <>
             <h1>Home pagina</h1>
@@ -13,6 +13,6 @@ export function Home() {
 
         </>
     );
-};
+}
 
 export default Home;
